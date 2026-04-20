@@ -3,9 +3,5 @@ dataset_description.json
 participants.tsv
 participants.json
 derivatives/dataset_description.json
-sub-Paired-pulse_trains/sub-Paired-pulse_trains_sessions.tsv
-sub-Paired-pulse_trains/sub-Paired-pulse_trains_sessions.json
-sub-Paired-pulse_trains/ses-Paired-pulse_trains/ecephys/sub-Paired-pulse_trains_ses-Paired-pulse_trains_ecephys.nwb
-sub-Single-pulse_trains/sub-Single-pulse_trains_sessions.tsv
-sub-Single-pulse_trains/sub-Single-pulse_trains_sessions.json
-sub-Single-pulse_trains/ses-Single-pulse_trains/ecephys/sub-Single-pulse_trains_ses-Single-pulse_trains_ecephys.nwb
+sub-Paired-pulse_trains/ecephys/sub-Paired-pulse_trains_ecephys.nwb
+sub-Single-pulse_trains/ecephys/sub-Single-pulse_trains_ecephys.nwb
