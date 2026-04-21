@@ -4,7 +4,12 @@
     "HEDVersion": "8.3.0",
     "Description": "The difference in electroporation patterns produced by a train of single pulses and a train of paired pulses. Supported by NIH 1R21EY034258",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Silkuniene, Giedre",
+        "Kim, Vitalii",
+        "Semenov, Iurii",
+        "Pakhomov, Andrei"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
